@@ -52,7 +52,7 @@ env-vehicle\scripts\activate
 >Again use pip or pip3 according your path variable, if pip doesn't work use pip3.
 
 ```
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 
 
