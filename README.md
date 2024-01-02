@@ -1,6 +1,9 @@
 # Vehicle Price Prediction
 > Get the data : [Link](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
+We don't have much description about the data
+
+
 Variables 
 
 1.name  
