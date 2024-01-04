@@ -61,16 +61,18 @@ pip3 install -r requirements.txt
 We don't have much description about the data
 
 
-Variables 
+**Data Dictionary:-** 
 
-1.name  
-2.year  
-3.selling_price  
-4.km_driven  
-5.fuel  
-6.seller_type  
-7.transmission  
-8.Owner  
+- `Car_Name:` Name of the car
+- `Year:` Year of Manufacture
+- `Selling_Price:` Price for selling
+- `Present_Price:` Current price for selling
+- `Kms_Driven:` Total Kilometres has been driven
+- `Fuel_Type:` Type of fuel
+- `Seller_Type:` Individual or Dealer
+- `Transmission:` Manual or Automatic
+- `Owner:` Is there any owner or not
+
 
 We have to predict the price of the vehicles. 
 So the target variable or label is "selling_price", all the others variables are features.
