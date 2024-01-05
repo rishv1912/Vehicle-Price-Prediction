@@ -68,6 +68,8 @@ Dependent Variable (Target)
 
 
 Independent Variables (Features):
+
+> The most imporant feature : 'Car_Name'
 - `Car_Name:` While the specific name may not directly impact the price, it could indirectly reflect the brand, model, or other features that affect the value.
 - `Year:` The age of the car could have a significant impact on its selling price. Newer cars may have higher prices.
 - `Present_Price:` The current market price of the car could strongly influence its selling price.
